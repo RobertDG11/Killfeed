@@ -73,3 +73,25 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Assets
+
+Content/Collectible/
+Content/Effects/
+Content/Env/
+Content/Game/
+Content/Geometry/
+Content/IESprofiles/
+Content/InfinityBladeEffects/
+Content/InfinityBladeGrassLands/
+Content/InfinityBladeIceLands/
+Content/KiteDemo/
+Content/Level1_sharedassets/
+Content/Mannequin/
+Content/Meshes/
+Content/NatureAssets/
+Content/SoulCave/
+Content/SoulCity/
+Content/StarterContent/
+Content/ThirdPerson/
+
